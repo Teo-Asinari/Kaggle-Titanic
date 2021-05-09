@@ -1,2 +1,2 @@
 # Kaggle-Titanic
-My Submissions to the Kaggle Titanic Challenge
+My Submissions to the Kaggle Titanic Challenge - Teo Asinari
